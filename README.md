@@ -1,13 +1,13 @@
 <h2 align="center">Hi 👋, I'm Levi Trejo</h2>
 <h4 align="center">A full stack web developer from Texas</h4>
 
-- 🔭 I’m currently working on [Better Reads, a full stack web app utilizing Java Spring Boot](https://github.com/Better-Reads-Capstone/BetterReads)
+- 🔭 : I’m currently working on [Better Reads, a full stack web app utilizing Java Spring Boot](https://github.com/Better-Reads-Capstone/BetterReads)
 
-- 🌱 I’m currently learning **ReactJS and TypeScript**
+- 🌱 : I’m currently learning **ReactJS and TypeScript**
 
-- 💬 Ask me about **Coding, email (SMTP), and music**
+- 💬 : Ask me about **Coding, email (SMTP), and music**
 
-- 📫 How to reach me **[LinkedIn](https://www.linkedin.com/in/levi-trejo-858a5a28/)**
+- 📫 : How to reach me **[LinkedIn](https://www.linkedin.com/in/levi-trejo-858a5a28/)**
 
 
 <h3 align="left">Languages and Tools:</h3>
