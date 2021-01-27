@@ -3,7 +3,7 @@
 
 - 🔭 : I’m currently working on [Better Reads, a full stack web app utilizing Java Spring Boot](https://github.com/Better-Reads-Capstone/BetterReads)
 
-- 🌱 : I’m currently learning **ReactJS and TypeScript**
+- 🌱 : I’m currently learning **ReactJS and Modern JS**
 
 - 💬 : Ask me about **Coding, email (SMTP), and music**
 
